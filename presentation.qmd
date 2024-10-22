@@ -1,0 +1,65 @@
+---
+title: "Présentation du parcours B"
+author: "Olivier Cots"
+format:
+  revealjs:
+    css: assets/css/styles.css
+    smaller: true
+    scrollable: true
+    slide-number: true
+    preview-links: auto
+    progress: true
+    history: true
+    controls: true
+    header: Présentation du parcours B   
+    header-logo: assets/images/logo-home.svg
+    header-logo-link: "https://ocots.github.io/presentation-parcours-B/"
+filters:
+  - reveal-header
+---
+
+---
+
+Dans le parcours, nous retrouvons des mathématiques et de l'informatique. Les applications se basent sur des données et des modèles physiques. La grande taille est un facteur important à prendre en compte.
+
+<figure class="center">
+  <img class="center" height="400px" src="assets/images/keywords.png">
+  <figcaption>Réalisé à l'aide du syllabus et ChatGPT</figcaption>
+</figure>
+
+## Contenu du parcours
+
+Une des particularité du parcours est la localisation des cours du vendredi à l'ENM (Ecole Nationale de la Météo). Certains cours sont communs avec le Mastère VALDOM sur le traitement et la valorisation de données massives, certains avec le parcours L.
+
+:::: {.columns}
+
+::: {.column width="80%"}
+::: {.panel-tabset}
+### Sur site N7
+
+- Algèbre linéaire du calcul quantique (J. Herrmann, CNRS)
+- Algorithmes pour le calcul à Haute Performance (A. Buttari, CNRS)
+- Apprentissage profond (S. Henrion, Sopra Steria)
+- Assimilation de données (S. Gratton, N7)
+- Méthodes itératives en algèbre linéaire (R. Guivarch, N7)
+- Optimisation Globale (N. Durand, ENAC)
+- Statistique exploratoire multi modèle (P. Laveau, ENM)
+
+### Sur site Météo (ENM)
+
+Les cours ont lieu le vendredi à l'ENM. Contact : David Pollack.
+
+- Analyse bayésienne (P. Laveau, ENM)
+- Filtrage stochastique (O. Pannekoucke, ENM)
+- Statistique exploratoire (P. Laveau, ENM)
+:::
+:::
+
+::: {.column width="20%"}
+<figure>
+  <img class="center" height="200px" style="margin-left:5px;" src="assets/images/qr-code-N7-programme.svg" />
+  <figcaption>Programme, débouchés</figcaption>
+</figure>
+:::
+
+::::

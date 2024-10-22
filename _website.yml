@@ -1,0 +1,13 @@
+website:
+  title: "SN-B"
+  navbar:
+    tools:
+      - icon: github
+        href: https://github.com/ocots/presentation-parcours-B
+    background: primary
+    left:
+      - text: "Présentation"
+        href: presentation.html
+  back-to-top-navigation: true
+  page-footer: 
+    center: "Copyright 2024, Olivier Cots" 

@@ -1,0 +1,6 @@
+---
+title-block-banner: true
+title: "Parcours HPC et Big Data"
+author: "Olivier Cots"
+date: last-modified
+---

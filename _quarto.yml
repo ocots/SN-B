@@ -1,0 +1,24 @@
+project:
+  type: website
+  resources: 
+    - "assets/json/*"
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: assets/css/styles.css
+    toc: true
+    html-math-method: katex
+    number-sections: true
+    code-fold: false
+    page-layout: full
+    template-partials: 
+      - assets/html/title-block.html
+
+metadata-files:
+  - _website.yml
