@@ -13,7 +13,7 @@ format:
     controls: true
     header: Présentation du parcours B   
     header-logo: assets/images/logo-home.svg
-    header-logo-link: "https://ocots.github.io/presentation-parcours-B/"
+    header-logo-link: "https://ocots.github.io/SN-B"
 filters:
   - reveal-header
 ---
