@@ -24,7 +24,7 @@ Dans le parcours, nous retrouvons des mathématiques et de l'informatique. Les a
 
 <figure class="center">
   <img class="center" height="400px" src="assets/images/keywords.png">
-  <figcaption>Réalisé à l'aide du syllabus et ChatGPT</figcaption>
+  <figcaption>Réalisé à l'aide du syllabus</figcaption>
 </figure>
 
 ## Contenu du parcours
@@ -37,12 +37,12 @@ Une des particularité du parcours est la localisation des cours du vendredi à 
 ::: {.panel-tabset}
 ### Sur site N7
 
-- Algèbre linéaire du calcul quantique (J. Herrmann, CNRS)
+- Algèbre linéaire du calcul quantique (J. Hermann, CNRS)
 - Algorithmes pour le calcul à Haute Performance (A. Buttari, CNRS)
-- Apprentissage profond (S. Henrion, Sopra Steria)
 - Assimilation de données (S. Gratton, N7)
-- Méthodes itératives en algèbre linéaire (R. Guivarch, N7)
+- Méthodes itératives (K. Carola, Cerfacs, R. Guivarch, N7)
 - Optimisation Globale (N. Durand, ENAC)
+- Projet Traitement de données réeelles (S. Henrion, Sopra Steria
 - Statistique exploratoire multi modèle (P. Laveau, ENM)
 
 ### Sur site Météo (ENM)
